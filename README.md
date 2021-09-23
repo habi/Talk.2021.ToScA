@@ -6,3 +6,5 @@ We are talking about [the tooth analysis method](https://habi.github.io/zmk-toot
 
 Since I've told the story about the teeth before (in an internal seminar at the Institute of Anatomy), I just copied the repository of [said talk](https://github.com/habi/Talk.2020.AnatomyInternalSeminar) and updated from there.
 
+
+If you'd like to cite my talk, you can do so via [![DOI](https://zenodo.org/badge/397189232.svg)](https://zenodo.org/badge/latestdoi/397189232)
